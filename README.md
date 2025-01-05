@@ -12,7 +12,7 @@
 
 ---
 
-# 💻 Tech Stack (Learning...):
+# 💻 Tech Stack:
 ### Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![GETX](https://img.shields.io/badge/GetX-8A2BE2.svg?style=for-the-badge&logo=GetX&logoColor=white)
